@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="uol_primary">#8B1E2D</color>
+    <color name="uol_primary_dark">#5E101C</color>
+    <color name="uol_accent">#C8963E</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="screen_bg">#F3F3F3</color>
+    <color name="text_secondary">#555555</color>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UOL Course Catalogue</string>
+    <string name="email_instructor">Email Instructor</string>
+    <string name="no_email_app">No email app found on this device</string>
+</resources>
